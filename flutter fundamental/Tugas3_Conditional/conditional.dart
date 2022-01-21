@@ -1,6 +1,6 @@
 import "dart:io";
 
-// latihan 1
+// 1. Ternary operator
 // void main() { 
 //     print('Apakah anda ingin menginstall: y/t ');
 //     String? inputText = stdin.readLineSync();
@@ -12,7 +12,7 @@ import "dart:io";
 //     }
 // }
 
-// //latihan 2
+// 2. If-else if dan else
 // void main() {
 //     print('Masukan nama : ');
 //       String? nama = stdin.readLineSync();
@@ -34,7 +34,7 @@ import "dart:io";
 //     }
 // }
 
-// // latihan 3
+// 3. Switch case
 // void main() { 
 //   print("Input tanggal (Senin-Minggu): ");
 //     String? hari = stdin.readLineSync();
@@ -66,7 +66,7 @@ import "dart:io";
 //   }
 // }
 
-// latihan 4
+// 4. Switch Case
 void main() { 
     var tanggal = 21;
     var bulan = 1;
